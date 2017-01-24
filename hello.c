@@ -1,8 +1,15 @@
 //program to print some strings
 
 #include<stdio.h>
-main()
+main()             //main() is a function
 {
    printf("HELLO WORLD!");
-   printf("I am learning C");
+   printf("\nI am learning C");
 }   
+
+
+
+output:
+
+HELLO WORLD!
+I am learning C   
