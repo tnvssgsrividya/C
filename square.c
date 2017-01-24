@@ -6,11 +6,11 @@ main()              //main() is a function
    int num,square;   //variable declaration
      
       printf("Enter a number for which square is to be calculated : ");
-      scanf("%d",&num);
+      scanf("%d",&num);                                                          //& is the address operator
       
-      suare=num*num;
+      square=num*num;
       
-      printf("\nThe square for %d is %d ",num,square);
+      printf("\nThe square for %d is %d ",num,square);                           //  \n is used to print in the  next line
 }      
 
 
